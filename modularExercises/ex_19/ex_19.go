@@ -1,4 +1,4 @@
-package ex19
+package ex_19
 
 import (
 	"fmt"
